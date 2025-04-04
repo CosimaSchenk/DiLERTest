@@ -1,5 +1,7 @@
 ![logo](lecture/static/logo.png)
 
+Link zu unserem Kurs: https://cosimaschenk.github.io/DiLERTest/
+
 
 ## "What's in this repository?"
 

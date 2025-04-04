@@ -7,3 +7,5 @@ Liste
 - Bullet Point 2
 
 Hier ist der [Link zum Kurs](https://cosimaschenk.github.io/DiLERTest/general_information/overview.html)
+
+![Bild von dem DiLER-Logo](../static/logo.png)
